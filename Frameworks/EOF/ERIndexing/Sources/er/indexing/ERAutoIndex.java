@@ -80,6 +80,7 @@ import er.extensions.foundation.ERXStringUtilities;
  */
 
 public class ERAutoIndex extends ERIndex {
+	public static final String DISABLE_indirectObjects_AUTOINDEXING_key = "DISABLE_indirectObjects_AUTOINDEXING";
 
     protected class ConfigurationEntry {
 
